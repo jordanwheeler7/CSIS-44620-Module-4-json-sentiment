@@ -1,5 +1,12 @@
 # Requests, JSON, and basic NLP with spaCy
 
+## Web Mining and Applied NLP
+## Module 4
+## July 20, 2023
+## Jordan Wheeler
+## GitHub Repo: https://github.com/jordanwheeler7/CSIS-44620-Module-4-json-sentiment
+ Using the LyricsGenius API, we create JSON documents for songs. We then use sentiment analysis to see if the song is negative neutral or positive.
+
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
